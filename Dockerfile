@@ -1,6 +1,6 @@
 FROM busybox
 
-RUN sleep 600
+RUN sleep 60
 
 
 
